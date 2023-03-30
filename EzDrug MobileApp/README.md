@@ -1,4 +1,4 @@
-# app01
+# EzDrug Mobile Application 
 
 A new Flutter project.
 
