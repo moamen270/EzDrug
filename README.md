@@ -13,4 +13,12 @@
 
 
 ## Domain : ezdrug.tech (didn't host Frontend yet)
+
 ## APIs   : ezdrug.tech/api/home 
+* Account
+* Category
+* Drug
+* Manufacturer
+* Order
+* Prescription
+
