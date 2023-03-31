@@ -1,5 +1,6 @@
 # EzDrug Application
 
+## Project Technologies:
 * Flutter.
 * ASP.Net
 * Angular 
