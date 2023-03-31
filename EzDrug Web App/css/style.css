@@ -1,0 +1,121 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: var(--secondcolor);
+}
+:root{
+    --maincolor:#97D2FB;
+    --secondcolor:#E1EFF6;
+    
+    /*#59C1BD;*/
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.title{
+    text-align: center;
+    background-color: var(--maincolor);
+    color: white;
+    padding: 30px;
+    text-transform: lowercase;
+    padding-top: 95px;
+}
+
+#according{
+    color: var(--maincolor);
+    text-align: center;
+}
+
+#inputSearch{
+    margin-top: 20px;
+    width: 210px;
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.userItems,.medicineItems{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+
+
+}
+.innerUsesitem,.medicineItem{
+    width: 30%;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 20px 0;
+    margin: 10px 0;
+    background-color: white;
+    transition: all .5s;
+}
+.innerUsesitem a{
+    color: rgb(10, 10, 10);
+    transition: all .5s;
+}
+.innerUsesitem a img{
+    width: 100px;
+    height: 100px;
+}
+.innerUsesitem a p{
+    font-size: 23px;
+}
+
+.innerUsesitem:hover{
+    background-color: var(--maincolor);
+    transform: scale(1.05);
+}
+.innerUsesitem:hover.innerUsesitem a{
+    color: white;
+}
+
+
+/*/////////////////////////////medicine///////////////////////////////////////*/
+
+.medicineKind{
+    font-size: 30px;
+    font-style: italic;
+    letter-spacing: 10px;
+    text-shadow: 4px 4px 2px #222;
+}
+.medicineItem a img{
+    height: 200px;
+    width: 200px;
+}
+.medicineItem .medicine-info i{
+    color: gold;
+}
+.medicineItem:hover{
+    background-color: var(--maincolor);
+    transform: scale(1.05);
+    box-shadow: 13px 13px 5px #333;
+}
+.medicineItem p ,.medicineItem h3{
+    color: #000;
+}
+.medicineItem:hover.medicineItem p,.medicineItem h3{
+    color: white;
+}
+
+.addToCart{
+    background-color: white;
+    width: 90px;
+    height: 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 1px solid #000;
+    transition: all .5s;
+
+}
+.addToCart:hover{
+    background-color: var(--secondcolor);
+}
+

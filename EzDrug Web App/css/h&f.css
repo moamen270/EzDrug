@@ -1,0 +1,149 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+:root{
+    --maincolor : #6195ff;
+    --graycolor : #999;
+    --bg-color : #f9f9f9;
+    --whitecolor : #fff;
+}
+a{
+    text-decoration: none;
+}
+header{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    padding: 10px 0;
+
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+}
+.list-unstyle{
+    list-style:none ;
+}
+.navbar ul li{
+    display: inline-block;
+    margin: 0 10px;
+    transition: all 0.5s;
+}
+.link-item{
+    color: white;
+    transition: all 0.5s;
+}
+.link-item:hover{
+    color: #6195ff;
+}
+.navbar ul li:hover{
+    transform: translate(-5px,-5px);
+}
+.header-content img{
+    width: 100px;
+}
+.login a i{margin-left: 32px;}
+.login i{
+    color: white;
+    font-size: 20px;
+}
+.login a{
+    display: inline-block;
+    transform: translate(-10px, 11px);
+    color: white;
+    transition: all 0.5s;
+
+}
+.login a:hover{
+    color: #6195ff;
+    transform: translate(-15px, 6px);
+}
+.footer{
+    background-color: #1c1d21;
+    text-align: center;
+    padding: 60px 0;
+}
+.footer-links{
+    list-style: none;
+    margin: 20px 0;
+}
+.footer-links li{
+    display: inline-block;
+}
+
+.footer-links li a{
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color: var(--maincolor);
+    color:  var(--whitecolor);
+    margin: 0 5px;
+    border-radius: 5%;
+}
+.footer-links li a i{
+    line-height: 50px;
+}
+.footer img{
+width: 200px;
+}
+
+
+
+
+
+
+ul#user-info{
+    display: flex;
+    list-style: none;
+}
+ul#user-info li a{
+    display: block;
+    min-width: 50px;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+}
+ ul#user-info{
+    display: none;
+    align-items: center;
+}
+ ul#user-info li i{
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+ ul#user-info li{
+    position: relative;
+    margin: 0 5px;
+}
+ 
+ 
+ ul#user-info li .badge{
+    line-height: 17px;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background-color: #3B9AE1;
+    color: white;
+    position: absolute;
+    top: -13px;
+    text-align: center;
+    display: none;
+}
+
+.shoppingCart{
+    top:13px;
+    right: 11px;
+}
+#user-info{
+    padding: 0;
+    margin: 0;
+}
+#logOut{
+    cursor: pointer;
+}
+#user-info a:hover{
+    color: #6195ff;
+}
