@@ -1,0 +1,14 @@
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\bin\Debug\net7.0\PharmacyWebAPI.Models.deps.json
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\bin\Debug\net7.0\PharmacyWebAPI.Models.dll
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\bin\Debug\net7.0\PharmacyWebAPI.Models.pdb
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\PharmacyWebAPI.Models.csproj.AssemblyReference.cache
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\PharmacyWebAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\PharmacyWebAPI.Models.AssemblyInfoInputs.cache
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\PharmacyWebAPI.Models.AssemblyInfo.cs
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\PharmacyWebAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\PharmacyWebAPI.Models.dll
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\refint\PharmacyWebAPI.Models.dll
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\PharmacyWebAPI.Models.pdb
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\ref\PharmacyWebAPI.Models.dll
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\bin\Debug\net7.0\PharmacyWebAPI.Models.runtimeconfig.json
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.Models\obj\Debug\net7.0\PharmacyWebAPI.Models.genruntimeconfig.cache

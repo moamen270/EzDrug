@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uUZC+tGEU8LFNnTXoK8SqaxKlUkodbcMth6ckoPuZJs=",
+  "Source": "PharmacyWebAPI",
+  "BasePath": "_content/PharmacyWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

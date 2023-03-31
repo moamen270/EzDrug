@@ -1,0 +1,17 @@
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\PharmacyWebAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\PharmacyWebAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\PharmacyWebAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\PharmacyWebAPI.DataAccess.AssemblyInfo.cs
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\PharmacyWebAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\bin\Debug\net7.0\PharmacyWebAPI.DataAccess.deps.json
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\bin\Debug\net7.0\PharmacyWebAPI.DataAccess.runtimeconfig.json
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\bin\Debug\net7.0\PharmacyWebAPI.DataAccess.dll
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\bin\Debug\net7.0\PharmacyWebAPI.DataAccess.pdb
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\bin\Debug\net7.0\PharmacyWebAPI.Models.dll
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\bin\Debug\net7.0\PharmacyWebAPI.Models.pdb
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\PharmacyWebAPI.DataAccess.csproj.CopyComplete
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\PharmacyWebAPI.DataAccess.dll
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\refint\PharmacyWebAPI.DataAccess.dll
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\PharmacyWebAPI.DataAccess.pdb
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\PharmacyWebAPI.DataAccess.genruntimeconfig.cache
+C:\Users\mmoam\source\repos\PharmacyWebAPI\PharmacyWebAPI.DataAccess\obj\Debug\net7.0\ref\PharmacyWebAPI.DataAccess.dll

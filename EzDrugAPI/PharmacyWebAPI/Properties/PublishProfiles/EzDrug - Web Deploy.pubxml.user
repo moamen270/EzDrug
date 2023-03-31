@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVlMaudICYE+HiJueavlk7QAAAAACAAAAAAAQZgAAAAEAACAAAACjsRR/qKWlHj8GgNXW6BaKoIc5n3PdoE2UpyUJO/eMPwAAAAAOgAAAAAIAACAAAAB03J5hkPxDATE6sTA9ZZsC26xsfOa9c5pMwSfsO1SAh4AAAABXPt6YR9g/z9Dz0g27DwAOtjYWpwFmPpZvfHQc4ajuuaDFeh2gnvXT5v6fnTrVMm/LnPgwJhxEwBI8Hfbay3jwmRM4m82rC30P3Z/Rip7sgNbwJxrbsHds4tQV+0QVVcUHoqk4wUN/cDGg+d4l1RfSBgaL2s8f0izocP59Dty+tkAAAAAWnT5yU+RLHjTUt0V2MbyphEyHJsek3rBtIyup7clTBbKXgxjLRymDoUv7cqxbOb5erDeytwwt5vMDfjMiZrN7</EncryptedPassword>
+    <History>True|2023-03-30T11:53:24.5304566Z;True|2023-03-30T13:14:35.5375361+02:00;True|2023-03-30T00:10:01.2525272+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:ezdrugserver.database.windows.net,1433%3bInitial Catalog=EzDrugDatabase%3bPersist Security Info=False%3bUser ID=ezdrugserver%3bPassword=Anawebs1%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
