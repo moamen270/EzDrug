@@ -1,16 +1,25 @@
-# EzDrug Mobile Application
+# EzDrug Application
 
-A new Flutter project.
+## Project Technologies:
+* Flutter.
+* ASP.Net
+* Angular 
 
-## Getting Started
+## Project Description:
+* The Smart Pharmacy project aims to provide a secure and convenient way for patients to obtain their prescription medications. The system is designed to streamline the prescription fulfillment process by using an automated vending machine that dispenses medication based on a patient's e-prescription. Patients can simply log in to the system using their unique credentials, view their prescription, and select the medication they need. The machine then dispenses the medication, along with any necessary instructions or warnings.
 
-This project is a starting point for a Flutter application.
+* The Smart Pharmacy system includes multiple components, including a web-based portal for doctors to create and manage e-prescriptions, a secure database to store patient information and prescription data, and an automated vending machine that dispenses medication based on the e-prescription. The system also includes robust security features to protect patient data, as well as user-friendly interfaces to ensure ease of use for both patients and healthcare providers.
 
-A few resources to get you started if this is your first Flutter project:
+* The Smart Pharmacy system is intended to improve patient outcomes by reducing medication errors, increasing medication adherence, and providing a convenient and accessible way for patients to obtain their prescription medications. The system also has the potential to reduce administrative burdens on healthcare providers and improve the overall efficiency of the prescription fulfillment process.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Domain : ezdrug.tech (didn't host Frontend yet)
+
+## APIs   : ezdrug.tech/api/home 
+* Account
+* Category
+* Drug
+* Manufacturer
+* Order
+* Prescription
+
