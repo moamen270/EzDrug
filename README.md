@@ -1,10 +1,10 @@
 # EzDrug Application
 
 ## Project Technologies:
-* Flutter.
-* ASP.Net
-* Angular 
-
+* Flutter Dart.
+* ASP.Net C#.
+* Angular. 
+* Flask Python.
 ## Project Description:
 * The Smart Pharmacy project aims to provide a secure and convenient way for patients to obtain their prescription medications. The system is designed to streamline the prescription fulfillment process by using an automated vending machine that dispenses medication based on a patient's e-prescription. Patients can simply log in to the system using their unique credentials, view their prescription, and select the medication they need. The machine then dispenses the medication, along with any necessary instructions or warnings.
 
