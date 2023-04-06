@@ -15,7 +15,7 @@
 
 ## Domain : ezdrug.tech (didn't host Frontend yet)
 
-## APIs   : api.ezdrug.tech/home 
+## APIs   : https://api.ezdrug.tech/swagger/index.html
 * Account
 * Category
 * Drug
